@@ -1,0 +1,59 @@
+<LanguagePack>
+    <clientsListButton>Show Clients List</clientsListButton>
+    <typeRentingNumberLabel>Search By Renting Number</typeRentingNumberLabel>
+    <typeClientNameLabel>Type Client Name</typeClientNameLabel>
+    <typeClientSurnameLabel>Type Client Surname</typeClientSurnameLabel>
+    <typeClientPeselLabel>Type Client Pesel</typeClientPeselLabel>
+    <typeWorkerNameLabel>Type Worker Name</typeWorkerNameLabel>
+    <typeWorkerSurnameLabel>Type Worker Surname</typeWorkerSurnameLabel>
+    <typeWorkerPeselLabel>Type Worker Pesel</typeWorkerPeselLabel>
+    <typeEquipmentNameLabel>Type Equipment Name</typeEquipmentNameLabel>
+    <selectEquipmentTypeLabel>Select Equipment Type</selectEquipmentTypeLabel>
+    <eqTypeData1>Chemical</eqTypeData1>
+    <eqTypeData2>Biological</eqTypeData2>
+    <eqTypeData3>Physical</eqTypeData3>
+    <typeRentingDateLabel>Type Renting Date Label yyyy-mm-dd</typeRentingDateLabel>
+    <typeReturnDateLabel>Type Return Date Label yyyy-mm-dd</typeReturnDateLabel>
+    <typeRentingClientPeselLabel>Type Client Pesel</typeRentingClientPeselLabel>
+    <typeRentingWorkerIdLabel>Type Worker Id</typeRentingWorkerIdLabel>
+    <typeRentingPositionsLabel>Type Equipments Ids</typeRentingPositionsLabel>
+    <addRecordButton>Add Record</addRecordButton>
+    <workersListButton>Show workers list</workersListButton>
+    <rentingsListButton>Show rentings list</rentingsListButton>
+    <equipmentListButton>Show equipments list</equipmentListButton>
+    <rentingDetailsButton>Show renting details</rentingDetailsButton>
+    <mainMenu>Options</mainMenu>
+    <languageSubMenu>Language</languageSubMenu>
+    <skinSubMenu>PLAF</skinSubMenu>
+    <langEN>English</langEN>
+    <langPL>Polish</langPL>
+    <skin1>Skin 1</skin1>
+    <skin2>Skin 2</skin2>
+    <skin3>Skin 3</skin3>
+    <titleLabelRentings>Rentings List</titleLabelRentings>
+    <titleLabelClients>Clients List</titleLabelClients>
+    <titleLabelWorkers>Workers List</titleLabelWorkers>
+    <titleLabelEquipments>Equipments List</titleLabelEquipments>
+    <titleLabelRentingDetails>Renting Details List</titleLabelRentingDetails>
+    <messagesAppear>Messages will appear here</messagesAppear>
+    <messagesPeselExists>Person with that Pesel Number already exists.</messagesPeselExists>
+    <messagesPeselCharacters>Pesel Number should contains 11 characters</messagesPeselCharacters>
+    <messagesPersonDoesntExists>Worker, or Client doesn't exist.</messagesPersonDoesntExists>
+    <messagesDate>Return Date must be after Renting Date.</messagesDate>
+    <messagesPLAF>Error during loading PLAF.</messagesPLAF>
+    <headerPersonId>Id</headerPersonId>
+    <headerPersonName>Name</headerPersonName>
+    <headerPersonSurname>Surname</headerPersonSurname>
+    <headerPersonPesel>Pesel</headerPersonPesel>
+    <headerEquipmentId>Id</headerEquipmentId>
+    <headerEquipmentName>Name</headerEquipmentName>
+    <headerEquipmentType>Type</headerEquipmentType>
+    <headerRentingNr>No.</headerRentingNr>
+    <headerRentingDate>Renting Date</headerRentingDate>
+    <headerRentingReturnDate>Return Date</headerRentingReturnDate>
+    <headerRentingClientId>Client Id</headerRentingClientId>
+    <headerRentingWorkerId>Worker Id</headerRentingWorkerId>
+    <headerWorkerDetailsNumber>No.</headerWorkerDetailsNumber>
+    <headerWorkerDetailsEquipmentName>Equipment Name</headerWorkerDetailsEquipmentName>
+    <clientsNumberBegin>Actual amount of clients in database: </clientsNumberBegin>
+</LanguagePack>

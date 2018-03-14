@@ -1,0 +1,59 @@
+<LanguagePack>
+    <clientsListButton>Wyświetl listę klientów</clientsListButton>
+    <typeRentingNumberLabel>Znajdź po numerze zamówienia</typeRentingNumberLabel>
+    <typeClientNameLabel>Podaj Imię Klienta</typeClientNameLabel>
+    <typeClientSurnameLabel>Podaj Nazwisko Klienta</typeClientSurnameLabel>
+    <typeClientPeselLabel>Podaj Pesel Klienta</typeClientPeselLabel>
+    <typeWorkerNameLabel>Podaj Imię Pracownika</typeWorkerNameLabel>
+    <typeWorkerSurnameLabel>Podaj Nazwisko Pracownika</typeWorkerSurnameLabel>
+    <typeWorkerPeselLabel>Podaj Pesel Pracownika</typeWorkerPeselLabel>
+    <typeEquipmentNameLabel>Podaj Nazwe Sprzętu</typeEquipmentNameLabel>
+    <selectEquipmentTypeLabel>Wybierz Rodzaj Sprzętu</selectEquipmentTypeLabel>
+    <eqTypeData1>Chemiczny</eqTypeData1>
+    <eqTypeData2>Biologiczny</eqTypeData2>
+    <eqTypeData3>Fizyczny</eqTypeData3>
+    <typeRentingDateLabel>Wprowadź Datę Wyporzyczenia rrrr-mm-dd</typeRentingDateLabel>
+    <typeReturnDateLabel>Wprowadź Datę Zwroturrrr-mm-dd</typeReturnDateLabel>
+    <typeRentingClientPeselLabel>Podaj Pesel Klienta</typeRentingClientPeselLabel>
+    <typeRentingWorkerIdLabel>Podaj Id Pracownika</typeRentingWorkerIdLabel>
+    <typeRentingPositionsLabel>Podaj Id Sprzętu Oddzielając Przecinkiem</typeRentingPositionsLabel>
+    <addRecordButton>Dodaj Rekord</addRecordButton>
+    <workersListButton>Pokaż Liste Pracowników</workersListButton>
+    <rentingsListButton>Pokaż Liste Wypożyczeń</rentingsListButton>
+    <equipmentListButton>Pokaż Listę Sprzętów</equipmentListButton>
+    <rentingDetailsButton>Pokaż Szczegóły Wypożyczenia</rentingDetailsButton>
+    <mainMenu>Opcje</mainMenu>
+    <languageSubMenu>Język</languageSubMenu>
+    <skinSubMenu>PLAF</skinSubMenu>
+    <langEN>Angielski</langEN>
+    <langPL>Polski</langPL>
+    <skin1>Skórka 1</skin1>
+    <skin2>Skórka 2</skin2>
+    <skin3>Skórka 3</skin3>
+    <titleLabelRentings>Lista Wypożyczeń</titleLabelRentings>
+    <titleLabelClients>Lista Klientów</titleLabelClients>
+    <titleLabelWorkers>Lista Pracowników</titleLabelWorkers>
+    <titleLabelEquipments>Lista Sprzętów</titleLabelEquipments>
+    <titleLabelRentingDetails>Lista Szczegółów Wypożyczenia</titleLabelRentingDetails>
+    <messagesAppear>Tu pojawią się komunikaty</messagesAppear>
+    <messagesPeselExists>Osoba o danym peselu już istnieje</messagesPeselExists>
+    <messagesPeselCharacters>Numer Pesel powinien zawierać 11 znaków</messagesPeselCharacters>
+    <messagesPersonDoesntExists>Pracownik, lub klient o podanych danych nie istnieje</messagesPersonDoesntExists>
+    <messagesDate>Data zwrotu, musi być późniejsza od daty wypożyczenia.</messagesDate>
+    <messagesPLAF>Błąd przy ładowaniu PLAF</messagesPLAF>
+    <headerPersonId>Id</headerPersonId>
+    <headerPersonName>Imię</headerPersonName>
+    <headerPersonSurname>Nazwisko</headerPersonSurname>
+    <headerPersonPesel>Pesel</headerPersonPesel>
+    <headerEquipmentId>Id</headerEquipmentId>
+    <headerEquipmentName>Imię</headerEquipmentName>
+    <headerEquipmentType>Rodzaj</headerEquipmentType>
+    <headerRentingNr>Numer</headerRentingNr>
+    <headerRentingDate>Data Wypożyczenia</headerRentingDate>
+    <headerRentingReturnDate>Data Zwrotu</headerRentingReturnDate>
+    <headerRentingClientId>Id Klienta</headerRentingClientId>
+    <headerRentingWorkerId>Id Pracownika</headerRentingWorkerId>
+    <headerWorkerDetailsNumber>Numer</headerWorkerDetailsNumber>
+    <headerWorkerDetailsEquipmentName>Nazwa Sprzętu</headerWorkerDetailsEquipmentName>
+    <clientsNumberBegin>Aktualna liczba klientów w bazie danych: </clientsNumberBegin>
+</LanguagePack>
